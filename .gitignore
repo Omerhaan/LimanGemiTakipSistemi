@@ -1,0 +1,13 @@
+bin/
+obj/
+node_modules/
+.vs/
+.vscode/
+*.user
+*.suo
+.env
+appsettings.Development.json
+dist/
+coverage/
+desktop.ini
+*.log
